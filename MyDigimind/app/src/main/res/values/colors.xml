@@ -12,5 +12,6 @@
     <color name="colorPrimaryDark">#018787</color>
     <color name="colorAccent">#c875ba</color>
     <color name="Gray">#a39f9f</color>
+    <color name="fondo_recordatorio">#92CAE0</color>
 
 </resources>
